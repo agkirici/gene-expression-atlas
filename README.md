@@ -151,9 +151,10 @@ npm start
 
 ## 🎨 Screenshots
 
-[Add screenshots here showing:]
+## 🎨 Screenshots
+
 ### 1. Main Interface - UMAP Visualization
-![Main Interface](<img width="1897" height="1227" alt="1" src="https://github.com/user-attachments/assets/46a1de2b-7c5d-42c6-8318-ad74d144580c" />)
+![Main Interface](https://github.com/user-attachments/assets/46a1de2b-7c5d-42c6-8318-ad74d144580c)
 
 **Overview of the main interface showing:**
 - Clean, modern UI with gradient purple-pink theme
@@ -161,9 +162,11 @@ npm start
 - Interactive search bar for instant gene lookup
 - UMAP projection displaying 2,500 cells across 6 immune cell types, color-coded by cell type
 - Empty state prompting users to search for genes to begin exploration
+
 ---
+
 ### 2. Gene Search - Auto-Suggest
-![Gene Search](<img width="1613" height="1181" alt="2" src="https://github.com/user-attachments/assets/21428c03-f105-4465-bf83-43f958b8c7ef" />)
+![Gene Search](https://github.com/user-attachments/assets/21428c03-f105-4465-bf83-43f958b8c7ef)
 
 **Intelligent search functionality:**
 - Real-time auto-suggest as you type (searching "C" shows CD3D, CD3E, CD8A, etc.)
@@ -171,9 +174,11 @@ npm start
 - Includes both immune markers (CD3D, CD4, CD8A) and cancer genes (MYC, BCL2, BRCA1, BRCA2)
 - One-click access to any gene in the database
 - Compare button for multi-gene analysis mode
+
 ---
+
 ### 3. Single Gene Analysis - BRCA1
-![BRCA1 Analysis](<img width="1655" height="1189" alt="gene-expression-atlas" src="https://github.com/user-attachments/assets/ea98d993-10b8-4bbf-8bf5-185782d6e1e9" />)
+![BRCA1 Analysis](https://github.com/user-attachments/assets/ea98d993-10b8-4bbf-8bf5-185782d6e1e9)
 
 **Comprehensive gene expression analysis view:**
 - **Gene Info Card**: Shows BRCA1 description, key pathways (Homologous recombination, DNA repair), and clinical relevance (hereditary breast/ovarian cancer, PARP inhibitor sensitivity)
@@ -183,8 +188,9 @@ npm start
 - **Expression Profile Grid**: Ranked expression values with progress bars, B cells showing highest expression (4.5), with lightning bolt indicating top expressing cell type
 
 ---
+
 ### 4. Multi-Gene Comparison - BRCA1 vs BRCA2
-![Gene Comparison](<img width="1399" height="1077" alt="4" src="https://github.com/user-attachments/assets/e7068304-3ba0-430f-9655-6fc62f3b6a85" />)
+![Gene Comparison](https://github.com/user-attachments/assets/e7068304-3ba0-430f-9655-6fc62f3b6a85)
 
 **Radar chart comparison mode:**
 - Compare Mode banner shows selected genes (BRCA1, BRCA2 - 2/3 selected)
@@ -193,10 +199,6 @@ npm start
 - Allows instant visual comparison of expression patterns
 - Useful for marker panel design and identifying complementary genes
 - Clear legend distinguishing each gene's expression profile
-
----
-
-## 📈 Future Enhancements
 
 ### Current Limitations
 - ❌ Simulated data only (not connected to real single-cell databases)
@@ -246,7 +248,7 @@ MIT License - free to use for any purpose, commercial or academic.
 **Arzu Kirici**
 - 🧬 Scientist building user-friendly software for genomics research
 - 💼 Background: Genetic diagnostics, cancer research, multi-omics analysis
-- 🌐 Portfolio: [arzukirici.com]
+- 🌐 Portfolio: [(https://www.arzukirici.com/)]
 - 💼 LinkedIn: [linkedin.com/in/arzukirici]
 - 📧 Email: [arzukirici@gmail.com]
 
