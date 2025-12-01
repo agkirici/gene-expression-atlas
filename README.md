@@ -151,8 +151,6 @@ npm start
 
 ## 🎨 Screenshots
 
-## 🎨 Screenshots
-
 ### 1. Main Interface - UMAP Visualization
 ![Main Interface](https://github.com/user-attachments/assets/46a1de2b-7c5d-42c6-8318-ad74d144580c)
 
